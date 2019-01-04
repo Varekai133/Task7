@@ -1,0 +1,63 @@
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\MainWindow.g.cs
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\App.g.cs
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7_MarkupCompile.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7_MarkupCompile.lref
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\MainWindow.baml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.g.resources
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Data.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Charting.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Core.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Data.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Drawing.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\EPPlus.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Data.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Data.dll.config
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Charting.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Core.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Data.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\SciChart.Drawing.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\bin\Debug\EPPlus.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Task7\obj\Debug\Task7.csproj.CopyComplete
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Task7.exe.config
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Task7.exe
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Task7.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Data.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Charting.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Core.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Data.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Drawing.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\EPPlus.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Data.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Data.dll.config
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Newtonsoft.Json.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Charting.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Core.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Data.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\SciChart.Drawing.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\bin\Debug\EPPlus.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\MainWindow.g.cs
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\App.g.cs
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7_MarkupCompile.cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7_MarkupCompile.lref
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\MainWindow.baml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.g.resources
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.Cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.exe
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Task7\obj\Debug\Task7.pdb

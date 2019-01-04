@@ -1,0 +1,61 @@
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Data.dll.config
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Data.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Data.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\ClosedXML.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\EPPlus.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\ExcelNumberFormat.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\FastMember.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Charting.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Core.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Data.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Drawing.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\System.IO.Packaging.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\ClosedXML.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\ClosedXML.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\EPPlus.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\ExcelNumberFormat.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Charting.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Core.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Data.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\bin\Debug\SciChart.Drawing.xml
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\obj\Debug\Data.dll
+C:\Users\kprvo\Desktop\Проги ЯиСП\Task7\Data\obj\Debug\Data.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Data.dll.config
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Data.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Data.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\ClosedXML.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\DocumentFormat.OpenXml.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\EPPlus.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\ExcelNumberFormat.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\FastMember.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Charting.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Core.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Data.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Drawing.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\System.IO.Packaging.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\ClosedXML.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\ClosedXML.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\DocumentFormat.OpenXml.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\EPPlus.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\ExcelNumberFormat.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Newtonsoft.Json.pdb
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Charting.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Core.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Data.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\bin\Debug\SciChart.Drawing.xml
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\obj\Debug\Data.dll
+c:\Users\Kat\Desktop\2.1\бэкап\Task7\Data\obj\Debug\Data.pdb
